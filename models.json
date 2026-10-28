@@ -1,0 +1,182 @@
+[
+  {
+    "id": "jetsl125",
+    "name": "JET SL 125",
+    "version": "2026 全新款",
+    "front": "110/70-12",
+    "rear": "120/70-12",
+    "source": "https://tw.sym-global.com/jetsl125",
+    "group": "現行車系"
+  },
+  {
+    "id": "jetsl158",
+    "name": "JET SL+ 158",
+    "version": "2026 全新款",
+    "front": "110/70-12",
+    "rear": "120/70-12",
+    "source": "https://tw.sym-global.com/jetsl158",
+    "group": "現行車系"
+  },
+  {
+    "id": "jet-sr",
+    "name": "JET SR 125",
+    "version": "七期 CBS／ABS",
+    "front": "110/70-12",
+    "rear": "120/70-12",
+    "source": "https://tw.sym-global.com/jet-sr",
+    "group": "現行車系"
+  },
+  {
+    "id": "drgbt2",
+    "name": "DRGBT 158",
+    "version": "2026 一般／C-TCS",
+    "front": "120/70-13",
+    "rear": "130/70-13",
+    "source": "https://tw.sym-global.com/drgbt2",
+    "group": "現行車系"
+  },
+  {
+    "id": "mmbcu",
+    "name": "MMBCU 158",
+    "version": "官網現行規格",
+    "front": "120/70-13",
+    "rear": "130/70-13",
+    "source": "https://tw.sym-global.com/mmbcu",
+    "group": "現行車系"
+  },
+  {
+    "id": "krnbt",
+    "name": "KRNBT 125",
+    "version": "官網現行規格",
+    "front": "110/70-12",
+    "rear": "120/70-12",
+    "source": "https://tw.sym-global.com/krnbt",
+    "group": "現行車系"
+  },
+  {
+    "id": "fiddle-dx",
+    "name": "Fiddle DX 158",
+    "version": "2025／2026 電驅",
+    "front": "110/70-12",
+    "rear": "120/70-12",
+    "source": "https://tw.sym-global.com/fiddle-dx",
+    "group": "現行車系"
+  },
+  {
+    "id": "fiddle125",
+    "name": "Fiddle 125",
+    "version": "2026 CBS／ABS 電驅",
+    "front": "110/70-12",
+    "rear": "120/70-12",
+    "source": "https://tw.sym-global.com/fiddle125",
+    "group": "現行車系"
+  },
+  {
+    "id": "fiddle-lt",
+    "name": "Fiddle LT 115",
+    "version": "2025 CBS",
+    "front": "90/90-10",
+    "rear": "90/90-10",
+    "source": "https://tw.sym-global.com/fiddle-lt",
+    "group": "現行車系"
+  },
+  {
+    "id": "clbcu",
+    "name": "CLBCU 125",
+    "version": "2026 CBS 電驅",
+    "front": "90/90-10",
+    "rear": "100/80-10",
+    "source": "https://tw.sym-global.com/clbcu",
+    "group": "現行車系"
+  },
+  {
+    "id": "4mica125",
+    "name": "4MICA 125",
+    "version": "2026 碟／ABS",
+    "front": "100/90-10",
+    "rear": "100/90-10",
+    "source": "https://tw.sym-global.com/4mica125",
+    "group": "現行車系"
+  },
+  {
+    "id": "4mica150",
+    "name": "4MICA 150",
+    "version": "2026 碟／ABS",
+    "front": "100/90-10",
+    "rear": "100/90-10",
+    "source": "https://tw.sym-global.com/4mica150",
+    "group": "現行車系"
+  },
+  {
+    "id": "woo-115",
+    "name": "WOO 115",
+    "version": "2024 CBS",
+    "front": "90/90-10",
+    "rear": "90/90-10",
+    "source": "https://tw.sym-global.com/woo-115",
+    "group": "現行車系"
+  },
+  {
+    "id": "2022duke125",
+    "name": "全新迪爵 125",
+    "version": "2026 電驅",
+    "front": "3.50-10",
+    "rear": "3.50-10",
+    "source": "https://tw.sym-global.com/2022duke125",
+    "group": "現行車系"
+  },
+  {
+    "id": "duke125",
+    "name": "迪爵 125",
+    "version": "2026 碟／鼓 CBS",
+    "front": "3.50-10",
+    "rear": "3.50-10",
+    "source": "https://tw.sym-global.com/duke125",
+    "group": "現行車系"
+  },
+  {
+    "id": "vivo125",
+    "name": "活力 125",
+    "version": "CBS 碟／鼓",
+    "front": "3.50-10",
+    "rear": "3.50-10",
+    "source": "https://tw.sym-global.com/vivo125",
+    "group": "現行車系"
+  },
+  {
+    "id": "z1-attila",
+    "name": "Z1 attila 125",
+    "version": "CBS／ABS",
+    "front": "3.50-10",
+    "rear": "3.50-10",
+    "source": "https://tw.sym-global.com/z1-attila",
+    "group": "現行車系"
+  },
+  {
+    "id": "wolf",
+    "name": "野狼 125",
+    "version": "官網現行規格",
+    "front": "2.75-18",
+    "rear": "3.00-17",
+    "source": "https://tw.sym-global.com/wolf",
+    "group": "現行車系"
+  },
+  {
+    "id": "legend",
+    "name": "野狼傳奇 125",
+    "version": "官網現行規格",
+    "front": "2.75-18",
+    "rear": "3.00-17",
+    "source": "https://tw.sym-global.com/legend",
+    "group": "現行車系"
+  },
+  {
+    "id": "jets",
+    "name": "JET S 125",
+    "version": "六期雙碟／ABS、七期 ABS",
+    "front": "110/70-12",
+    "rear": "120/70-12",
+    "source": "https://tw.sym-global.com/storage/system/product/125cc-150cc/jets/JETs-manual.pdf",
+    "group": "已核對舊款"
+  }
+]

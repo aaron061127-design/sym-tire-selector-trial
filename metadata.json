@@ -1,0 +1,138 @@
+{
+  "CITY2": {
+    "brand": "MICHELIN 米其林",
+    "display": "CITY GRIP 2",
+    "file": "city-grip-2.jpg",
+    "source": "https://www.wheelhousetyres.co.uk/products/michelin-city-grip-2",
+    "note": "",
+    "trait": "雨天抓地，耐磨通勤",
+    "traitSource": "https://africa.michelin.com/en/motorbike/tyres/michelin-city-grip-2"
+  },
+  "City Saver": {
+    "brand": "MICHELIN 米其林",
+    "display": "CITY GRIP SAVER",
+    "file": "city-grip-saver.jpg",
+    "source": "https://www.motomail.co.nz/estore/style/m1212070cgs.aspx",
+    "note": "",
+    "trait": "省力滾動，兼顧雨天抓地",
+    "traitSource": "https://www.michelin.com.au/motorbike/tyres/michelin-city-grip-saver"
+  },
+  "ANGEL": {
+    "brand": "PIRELLI 倍耐力",
+    "display": "ANGEL SCOOTER",
+    "file": "angel-scooter.jpg",
+    "source": "https://www.ebay.com/itm/224438889826",
+    "note": "",
+    "trait": "舒適通勤，晴雨都適合",
+    "traitSource": "https://press.pirelli.com/pirelli-new-angeltm-scooter-and-diablo-rossotm-scooter/"
+  },
+  "ROSSO": {
+    "brand": "PIRELLI 倍耐力",
+    "display": "DIABLO ROSSO SCOOTER",
+    "file": "diablo-rosso-scooter.jpg",
+    "source": "https://www.americanmototire.com/pirelli-diablo-rosso/120-80-14-58s-front-2768700.html",
+    "note": "",
+    "trait": "偏運動騎乘，重視過彎抓地",
+    "traitSource": "https://www.pirelli.com/tyres/en-ww/motorcycle/catalogue/product/diablo-rosso-scooter"
+  },
+  "TT93": {
+    "brand": "DUNLOP 登祿普",
+    "display": "TT93",
+    "file": "dunlop-tt93.jpg",
+    "source": "https://shopee.tw/product/12361845/5335914308",
+    "note": "",
+    "trait": "乾地抓地，偏運動操控",
+    "traitSource": "https://www.dunlop-moto.com/en_gb/tires/tt93-gp--tt93-gp.html"
+  },
+  "智天使": {
+    "brand": "MAXXIS 瑪吉斯",
+    "display": "智天使 M6315",
+    "file": "maxxism6315.png",
+    "source": "https://maxxistyres.co.in/products/scooter/M6315",
+    "note": "",
+    "trait": "耐磨代步，兼顧濕地抓地",
+    "traitSource": "https://maxxistyres.co.in/products/scooter/M6315"
+  },
+  "WG2": {
+    "brand": "MAXXIS 瑪吉斯",
+    "display": "WG2 水行俠二代",
+    "file": "maxxis-wg2.jpg",
+    "source": "https://shopee.tw/product/12361845/28012697460",
+    "note": "",
+    "trait": "主打雨天抓地，晴雨通勤",
+    "traitSource": "https://www.maxxis.com.tw/news_detail.php?Key=191&cID=3"
+  },
+  "MAXXIS鯊魚王六代": {
+    "brand": "MAXXIS 瑪吉斯",
+    "display": "鯊魚王六代 MA-V1",
+    "file": "maxxis-v1.jpg",
+    "source": "https://shopee.tw/product/18254896/57252797025",
+    "note": "",
+    "trait": "重視排水，兼顧過彎抓地",
+    "traitSource": "https://tw.bid.yahoo.com/shopdaily/chart/%E5%A4%A7%E4%BD%B3%209090-10"
+  },
+  "X1": {
+    "brand": "MAXXIS 瑪吉斯",
+    "display": "X1",
+    "file": "maxxis-x1.jpg",
+    "source": "https://shopee.tw/search?keyword=%E9%AF%8A%E9%AD%9A%E7%8E%8Bx1",
+    "note": "",
+    "trait": "耐磨通勤、雨天排水、過彎穩定",
+    "traitSource": null,
+    "traitSourceNote": "依使用者提供的特性摘要，2026/10/07"
+  },
+  "GP901紅標": {
+    "brand": "KINGSTIRE 建泰",
+    "display": "GP901 紅標",
+    "file": "gp901-red-v1-v2.jpg",
+    "source": "https://shopee.tw/product/6217202/11698027773",
+    "note": "紅標 V1／V2 系列共用圖",
+    "trait": "偏競技取向，重視抓地",
+    "traitSource": "https://www.yogoaima.com/categories/kingstire"
+  },
+  "GP901紅標V2": {
+    "brand": "KINGSTIRE 建泰",
+    "display": "GP901 紅標 V2",
+    "file": "gp901-red-v1-v2.jpg",
+    "source": "https://shopee.tw/product/6217202/11698027773",
+    "note": "紅標 V1／V2 系列共用圖",
+    "trait": "偏競技取向，重視抓地",
+    "traitSource": "https://www.yxracingteam.com/categories/gp901"
+  },
+  "GP901紅標V3": {
+    "brand": "KINGSTIRE 建泰",
+    "display": "GP901 紅標 V3",
+    "file": "gp901-red-v3.jpg",
+    "source": "https://biggo.com.tw/s/gp901%E7%B4%85%E6%A8%99",
+    "note": "",
+    "trait": "偏競技取向，重視抓地",
+    "traitSource": "https://www.yxracingteam.com/categories/gp901"
+  },
+  "GP901綠標": {
+    "brand": "KINGSTIRE 建泰",
+    "display": "GP901 綠標",
+    "file": "gp901-green.jpg",
+    "source": "https://shopee.tw/product/23224633/29207507843",
+    "note": "",
+    "trait": "運動街道用，日常也能騎",
+    "traitSource": "https://www.yogoaima.com/categories/kingstire"
+  },
+  "JD-54": {
+    "brand": "NANKANG 南港",
+    "display": "JD-54",
+    "file": "jd54.jpg",
+    "source": "https://24h.pchome.com.tw/prod/DEAVFE-A900HTKCC",
+    "note": "",
+    "trait": "晴雨抓地，兼顧過彎穩定",
+    "traitSource": "https://nankang-tyre.com/product/detail/89"
+  },
+  "狂熱者": {
+    "brand": "益碁輪胎",
+    "display": "狂熱複合胎 (FA-101)",
+    "file": "fa-101.jpeg",
+    "source": null,
+    "note": "",
+    "trait": "複合胎面，兼顧耐磨與操控",
+    "traitSource": "https://www.autoyas.com/TW/Kaohsiung/109444645579175/%E5%8D%9A%E6%96%AF%E6%B3%B0%E4%BC%81%E6%A5%AD%E7%A4%BE---%E7%9B%8A%E7%A2%81%E6%9C%B1%E9%9B%80%E8%83%8E%E7%B6%93%E9%8A%B7"
+  }
+}
